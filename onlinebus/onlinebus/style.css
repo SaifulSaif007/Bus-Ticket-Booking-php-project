@@ -1,0 +1,107 @@
+body{
+	background-image: url("street.jpg");
+    background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+
+
+
+#fr{
+	color:Navy;
+	margin-left:15%;
+}
+#toa{
+	color:Navy;
+}
+#ona{
+	color:Navy;
+}
+#ra{
+	color:Navy;
+}
+
+#menu ul{ 
+	width: 97%;
+	height:80px;
+	background: black;
+	line-height:80px;
+	color:white;
+}
+#menu ul li{
+	float: left;
+	list-style-type: none;
+	display: block;	
+
+}
+#menu ul a{
+	text-decoration: none;
+	color: white;
+	text-align: center;
+	padding:50px 52px;
+}
+#menu ul li:hover{
+	background-color: CadetBlue;
+}
+#active{
+	background-color: FireBrick;
+}
+#menu img{
+	width: 10%;
+	height:85px;
+	float: left;	
+	padding-left:250px;
+}
+
+
+#form{
+	background-image: url("rosd1.jpg");
+	border: solid gray 1px;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	border-radius: 5px;
+	padding: 40px;	
+}
+
+#btn{
+	color: IndianRed;
+	background-color: rgba(0,0,0,.5);
+	padding: 15px;
+	border-radius: 15px;
+	margin-left:45%;
+}
+#des{
+	background:DarkGray;
+	border: solid gray 1px;
+	background-size: cover;
+	border-radius: 5px;
+	padding: 30px;
+}
+#btn1{
+	color: IndianRed;
+	background-color: rgba(0,0,0,.5);
+	padding: 15px;
+	margin-left:45%;
+	top: 200px;
+}
+
+
+#h2 {			
+	width: 150px;
+	height:10px;
+	margin: auto;
+	color:white;
+	margin-left:45%;
+	text-align: center;
+}
+
+#Name{
+	background-color:Black;
+}
+
+
+
+
+
+
